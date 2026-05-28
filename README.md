@@ -1,54 +1,108 @@
-# Hi there 👋, I'm Bindu Satya Amarnadh
+<div align="center">
 
-🎓 Graduate from NIT Warangal  
-💻 Software Engineer focused on Full-Stack Development, Backend Engineering, Cloud Systems, and AI-powered Applications  
-🚀 Passionate about building scalable systems, intelligent automation platforms, and developer tools
+# Bindu Satya Amarnadh
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+%26+Cloud+Developer;AI+Systems+Builder;Distributed+Systems+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=BinduSatya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+
+<a href="https://github.com/BinduSatya">
+<img src="https://img.shields.io/github/followers/BinduSatya?label=Followers&style=social"/>
+</a>
+
+<a href="https://leetcode.com/u/BinduSatya">
+<img src="https://img.shields.io/badge/LeetCode-1658%20Rating-orange?style=flat&logo=leetcode"/>
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 💼 Software Engineer at BizAcuity Solutions
-- 🧠 Interested in Backend Engineering, Distributed Systems, RAG Pipelines, and AI Agents
-- ☁️ Exploring Cloud Infrastructure, AWS, and scalable architectures
-- 📚 Solved 600+ DSA problems on LeetCode
-- ⚡ Strong foundation in DBMS, OS, Computer Networks, and Low-Level System Design
-- 🎯 Aspiring to build impactful large-scale software systems
+```yaml
+Name: Bindu Satya Amarnadh
+Education: Bachelor of Technology at NIT Warangal
+Role: Software Engineer 
+Company: BizAcuity Solutions
+
+Interests:
+  - Backend Engineering
+  - Distributed Systems
+  - Cloud Infrastructure
+  - Generative AI
+  - RAG Pipelines
+  - Scalable System Design
+
+Currently_learning:
+  - System Design
+  - AWS Cloud Architecture
+  - Event Driven Systems
+  - AI Agent Workflows
+```
+
+---
+
+# 🚀 Experience
+
+## 💼 Software Engineer | BizAcuity Solutions
+📍 Hyderabad | Jul 2025 - Present
+
+- Built scalable multi-tenant HR chatbot systems
+- Developed secure authentication workflows using AWS Cognito + JWT
+- Engineered RAG-based ingestion pipelines and semantic retrieval systems
+- Implemented asynchronous document processing using SSE and queue architectures
+- Built RBAC systems for enterprise-grade multi-role access management
+
+---
+
+## 📊 Data Engineer Intern | Axis Bank
+📍 Mumbai | May 2024 - Jul 2024
+
+- Developed reusable ETL worklets for data validation and normalization
+- Optimized SQL ETL workflows reducing load times by 30%
+- Improved reliability and scalability across multiple pipelines
 
 ---
 
 # 🛠️ Tech Stack
 
+<div align="center">
+
 ## Languages
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 
-## Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<img src="https://skillicons.dev/icons?i=python,cpp,js,java,mysql"/>
 
-## Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+## Backend & Cloud
 
-## Tools & Concepts
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,aws"/>
 
-- RESTful APIs
-- WebSockets
-- Generative AI
-- Low-Level System Design
-- DBMS
-- Operating Systems
-- Computer Networks
+## Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,vscode"/>
+
+</div>
+
+---
+
+# 🧠 Core Engineering Concepts
+
+```text
+• RESTful API Design
+• Authentication & Authorization
+• RBAC Systems
+• Distributed Systems
+• Low-Level Design
+• Database Design
+• Operating Systems
+• Computer Networks
+• Event-Driven Architectures
+• WebSockets & SSE
+• Generative AI Systems
+• RAG Pipelines
+```
 
 ---
 
@@ -56,95 +110,137 @@
 
 ## 🤖 Multi-Tenant HR Chatbot Platform
 
-- Built a scalable multi-tenant HR chatbot platform using AWS Cognito
-- Implemented JWT authentication, RBAC, secure cookie management, and SES email workflows
-- Developed end-to-end RAG document ingestion pipelines
-- Built real-time asynchronous processing systems using SSE and queue-based architectures
+### Features
+- AWS Cognito Authentication
+- JWT-based Authorization
+- Role-Based Access Control
+- RAG-based Document Retrieval
+- Real-Time SSE Processing
+- Queue-based Async Pipelines
+
+### Tech Stack
+```text
+FastAPI • AWS Cognito • PostgreSQL • Redis • SSE • RAG
+```
 
 ---
 
 ## 🎥 DaileeCode
 
-An autonomous AI-powered content generation system that converts daily LeetCode problems into fully produced YouTube videos.
+Autonomous AI-powered pipeline that converts daily LeetCode problems into fully produced YouTube videos.
 
-### Features
+### Highlights
 - AI-generated coding solutions
 - Automated script generation
-- Text-to-speech narration
-- Automatic YouTube uploads
-- Real-time Telegram notifications
-- Fully automated CI/CD pipeline
+- Google TTS narration
+- Video generation using MoviePy
+- Automated YouTube publishing
+- GitHub Actions CI/CD
+- Telegram notifications
 
-### Tech Used
-- Python
-- Groq LLM
-- LeetCode GraphQL API
-- Google TTS
-- MoviePy
-- YouTube Data API
-- GitHub Actions
+### Tech Stack
+```text
+Python • Groq LLM • GraphQL • MoviePy • YouTube API • GitHub Actions
+```
 
 ---
 
-## 🧾 ZeroTouch Reimbursement System  
-🏆 Runner-up – BizAcuity Hackathon
+## 🧾 ZeroTouch Reimbursement System
+🥈 Runner-up – BizAcuity Hackathon
 
-- Reduced reimbursement claim processing time from 15 minutes to under 1 minute
-- Built AI-powered OCR and computer vision pipelines using Tesseract and InsightFace
-- Developed full-stack automation platform using React + FastAPI
-- Integrated AWS S3 pre-signed URL storage and PostgreSQL persistence
+### Highlights
+- OCR + Computer Vision based automation
+- Reduced claim processing from 15 minutes to under 1 minute
+- AI extraction from image/PDF receipts
+- AWS S3 pre-signed upload workflows
 
----
-
-# 💼 Experience
-
-## 💻 Software Engineer | BizAcuity Solutions
-📍 Hyderabad | Jul 2025 - Present
-
-- Building scalable enterprise AI platforms
-- Engineering RAG pipelines and asynchronous processing systems
-- Working on secure authentication and cloud-native architectures
+### Tech Stack
+```text
+React • FastAPI • PostgreSQL • AWS S3 • Tesseract • InsightFace
+```
 
 ---
 
-## 📊 Data Engineer Intern | Axis Bank
-📍 Mumbai | May 2024 - Jul 2024
+# 📈 GitHub Analytics
 
-- Developed reusable ETL worklets for validation and normalization
-- Optimized SQL ETL workflows and improved load performance by 30%
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BinduSatya&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinduSatya&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=BinduSatya&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🏆 Achievements
 
-- ⭐ LeetCode Rating: **1658** (Top 17%)
-- 🧠 Solved **600+ DSA Problems**
-- 🥈 Runner-up – BizAcuity Hackathon
-- 🎓 Graduate from NIT Warangal
+```text
+⭐ LeetCode Rating: 1658 (Top 17%)
+🧠 Solved 600+ DSA Problems
+🥈 Runner-up - BizAcuity Hackathon
+🎓 Graduate from NIT Warangal
+```
 
 ---
 
-# 📈 GitHub Stats
+# 🌱 Currently Working On
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinduSatya&show_icons=true&theme=tokyonight)
+- Scalable AI-powered backend systems
+- Distributed event-driven architectures
+- AI agents and autonomous workflows
+- Cloud-native application development
+- Advanced backend engineering concepts
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BinduSatya&layout=compact&theme=tokyonight)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BinduSatya&theme=tokyonight)
+# 📚 Currently Learning
+
+```text
+• System Design
+• Redis Caching Strategies
+• Cloud-Native Architectures
+• AI Agent Frameworks
+```
 
 ---
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bindu-satya-amarnadh)
+<div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/BinduSatya)
+<a href="https://linkedin.com/in/bindu-satya-amarnadh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/BinduSatya)
+<a href="https://leetcode.com/u/BinduSatya">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-📫 Email: bsamarnadh@gmail.com
+<a href="mailto:bsamarnadh@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/BinduSatya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-> “Build systems that solve real problems.”  
-[Amarnadh_May_Resume.pdf](https://github.com/user-attachments/files/28335761/Amarnadh_May_Resume.pdf)
+<div align="center">
+
+### ⚡ Philosophy
+
+> Build systems that solve real-world problems efficiently, reliably, and at scale.
+
+</div>
